@@ -10,13 +10,8 @@
  .descr{
      color:#69696a;
  }
- .hireus{
+ .hireus,.call{
      color:#FFF;
      background-color: black;
      text-decoration: none;
  }
- .calltoaction{
-    color:#FFF;
-    background-color: black;
-    text-decoration: none;
-}
