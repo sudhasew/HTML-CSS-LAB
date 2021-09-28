@@ -9,6 +9,7 @@
  }
  .descr{
      color:#69696a;
+     text-align: left;
  }
  .hireus{
      color:#FFF;
@@ -19,4 +20,11 @@
     color:#FFF;
     background-color: black;
     text-decoration: none;
+}
+.link1,.link2,.link3{
+    text-decoration: none;
+}
+.footer{
+    position: fixed;
+    background-color: rgba(247, 193, 162, 0.7);
 }
